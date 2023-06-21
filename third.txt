@@ -1,7 +1,3 @@
-﻿Hello, world..!
+This is a new file.
 
-Demo project..!
-
-change from online editor.
-
-change from locally.
+change online.
